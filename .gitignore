@@ -1,0 +1,8 @@
+orb
+
+# Custom Backup Format
+.*.*
+
+# Vim swap files
+*.swp
+*.swo
