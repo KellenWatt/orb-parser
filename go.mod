@@ -1,3 +1,3 @@
-module orm-builder
+module orb
 
 go 1.17
