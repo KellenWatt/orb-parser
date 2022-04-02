@@ -1,0 +1,10 @@
+# language = go
+#database= postgres
+
+[student]
+sid int using sequence
+- primary key
+- alias: id
+name string using TEXT
+- NOT NULL
+
